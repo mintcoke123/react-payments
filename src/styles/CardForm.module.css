@@ -1,0 +1,37 @@
+.label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.subLabel {
+  font-size: 12px;
+  color: #777;
+  margin-bottom: 6px;
+}
+
+.inputGroup {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.inputGroup input {
+  flex: 1;
+  min-width: 0;
+}
+
+.input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.inputFull {
+  width: 100%;
+}
+
+.inputGroupExpiryInput {
+  width: 80px;
+}
