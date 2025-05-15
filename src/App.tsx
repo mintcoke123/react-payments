@@ -1,9 +1,10 @@
 import "./App.css";
+import CardRegisterPage from "./pages/cardRegisterPage";
 
 function App() {
   return (
     <>
-      <h1>React Payments</h1>
+      <CardRegisterPage/>
     </>
   );
 }
